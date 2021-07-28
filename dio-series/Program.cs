@@ -4,6 +4,7 @@ namespace dio_series
 {
     class Program
     {
+        static SerieRepositorio repositorio = new SerieRepositorio();
         static void Main(string[] args)
         {
             string opcaoUsuario = ObterOpcaoUsuario();

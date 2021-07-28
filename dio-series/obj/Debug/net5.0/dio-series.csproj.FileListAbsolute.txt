@@ -1,0 +1,16 @@
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/obj/Debug/net5.0/dio-series.csproj.AssemblyReference.cache
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/obj/Debug/net5.0/dio-series.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/obj/Debug/net5.0/dio-series.AssemblyInfoInputs.cache
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/obj/Debug/net5.0/dio-series.AssemblyInfo.cs
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/obj/Debug/net5.0/dio-series.csproj.CoreCompileInputs.cache
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/bin/Debug/net5.0/dio-series
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/bin/Debug/net5.0/dio-series.deps.json
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/bin/Debug/net5.0/dio-series.runtimeconfig.json
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/bin/Debug/net5.0/dio-series.runtimeconfig.dev.json
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/bin/Debug/net5.0/dio-series.dll
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/bin/Debug/net5.0/ref/dio-series.dll
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/bin/Debug/net5.0/dio-series.pdb
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/obj/Debug/net5.0/dio-series.dll
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/obj/Debug/net5.0/ref/dio-series.dll
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/obj/Debug/net5.0/dio-series.pdb
+/home/andrepc/Documentos/cursos2021/DIO/GFTcsharp/dio-series/obj/Debug/net5.0/dio-series.genruntimeconfig.cache

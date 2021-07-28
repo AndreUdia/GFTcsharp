@@ -45,5 +45,9 @@ namespace dio_series
         {
             this.Excluido = true;
         }
+        public bool retornaExcluido()
+		{
+			return this.Excluido;
+		}
     }
 }
