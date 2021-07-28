@@ -10,27 +10,27 @@ namespace dio_series
 
         public List<Serie> Lista()
         {
-            throw NotImplementedException();
+            return listaSerie;
         }
         public Serie RetornaPorId(int id)
         {
-            throw NotImplementedException();
+            return listaSerie[id];
         }
-        public void Insere(Serie entidade)
+        public void Insere(Serie objeto)
         {
-            throw NotImplementedException();
+            listaSerie.Add(objeto);
         }
         public void Exclui(int id)
         {
-            throw NotImplementedException();
+            listaSerie[id].Excluir();
         }
-        public void Atualiza(int id, Serie entidade)
+        public void Atualiza(int id, Serie objeto)
         {
-            throw NotImplementedException();
+            listaSerie[id] = objeto;
         }
         public int ProximoId()
         {
-            throw NotImplementedException();
+            return listaSerie.Count;
         }
     }
 }
